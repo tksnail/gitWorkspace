@@ -1,11 +1,7 @@
 creat my first git file
-
 hello git!
-
 My name is bleach.
-
 it is a mistake.
-
 new testing...
-
 create branch
+Creating a new branch is quick AND simple.
